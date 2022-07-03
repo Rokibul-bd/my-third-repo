@@ -17,6 +17,14 @@ ul{
     width:80%;
     margin:0 auto;
 }
+.btn{
+    border:none;
+    outline:none;
+    cursor:pointer;
+    text-align:center;
+    padding:10px 15px;
+    border-radius:5px;
+}
 .nav{
     width:100%;
     background:#ddd;
@@ -60,4 +68,24 @@ ul{
     display:flex;
     justify-content: space-between;
     gap:40px;
+}
+.header .header-text-section h3{
+    font-size:30px;
+    color:purple;
+    font-weight:500;
+    margin-bottom:40px
+}
+.btn-header-section{
+    background:purple;
+    padding:15px 20px;
+    color:#fff;
+    transition:0.5s all ease;
+}
+.btn-header-section:hover{
+    background:transparent;
+    color:#fff;
+
+}
+.header .header-img-section img{
+    max-width:100%;
 }
