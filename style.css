@@ -56,3 +56,8 @@ ul{
     color:purple;
     font-weight:600;
 }
+.header .header-content-flex{
+    display:flex;
+    justify-content: space-between;
+    gap:40px;
+}
