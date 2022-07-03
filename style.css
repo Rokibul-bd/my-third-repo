@@ -31,7 +31,7 @@ ul{
     padding:10px 0;
 }
 .logo a{
-    font-size:60px;
+    font-size:40px;
     color:purple;
     font-weight:700;
     transition:0.3s all ease;
@@ -101,6 +101,7 @@ ul{
     background:transparent;
     color:purple;
     border:1px solid purple;
+    margin-top:40px;
 
 }
 .header .header-img-section img{
