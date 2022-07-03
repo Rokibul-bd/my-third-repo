@@ -30,6 +30,21 @@ ul{
     background:#ddd;
     padding:10px 0;
 }
+.logo a{
+    font-size:60px;
+    color:purple;
+    font-weight:700;
+    transition:0.3s all ease;
+}
+.logo a:hover{
+    color:orange;
+}
+.logo .camp{
+    color:orange;
+}
+.logo a:hover .camp{
+    color:purple;
+}
 .nav-flex{
     display:flex;
     justify-content: space-around;
