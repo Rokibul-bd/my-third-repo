@@ -114,9 +114,9 @@ ul{
     object-fit:cover;
 }
 
-.services{
+.sevices{
     width:100%;
-    padding:150px;
+    padding:150px 0;
 }
 .services-flex{
     display:flex;
