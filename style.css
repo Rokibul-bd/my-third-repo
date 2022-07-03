@@ -3,6 +3,9 @@
     padding:0;
     box-sizing:border-box;
 }
+body{
+    font-family: monospace;
+}
 a{
     text-decoration:none;
     color:#000;
@@ -38,4 +41,18 @@ ul{
 }
 .nabar ul li a:hover{
     color:aqua;
+}
+.header{
+    width:100%;
+    padding:150px 0;
+}
+.header .header-text-flex{
+    display:flex;
+    justify-content: center;
+    align-items:center
+}
+.header .header-text-flex h2{
+    font-size:55px;
+    color:purple;
+    font-weight:600;
 }
