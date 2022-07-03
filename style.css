@@ -30,3 +30,12 @@ ul{
 .navbar ul li{
     padding:10px 15px;
 }
+.navbar ul li a{
+    color : purple;
+    text-transform: capitalize;
+    font-size:20px;
+    transition:0.5s all ease;
+}
+.nabar ul li a:hover{
+    color:aqua;
+}
