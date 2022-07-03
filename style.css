@@ -72,7 +72,8 @@ ul{
 .header .header-text-flex{
     display:flex;
     justify-content: center;
-    align-items:center
+    align-items:center;
+    padding-top:150px;
 }
 .header .header-text-flex h2{
     font-size:45px;
@@ -98,7 +99,8 @@ ul{
 }
 .btn-header-section:hover{
     background:transparent;
-    color:#fff;
+    color:purple;
+    border:1px solid purple;
 
 }
 .header .header-img-section img{
