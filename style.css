@@ -85,6 +85,9 @@ ul{
     justify-content: space-between;
     gap:40px;
 }
+.header-text-section{
+    padding:150px;
+}
 .header .header-text-section h3{
     font-size:30px;
     color:purple;
@@ -106,6 +109,6 @@ ul{
 }
 .header .header-img-section img{
     max-width:100%;
-    height:350px;
+    height:500px;
     object-fit:cover;
 }
