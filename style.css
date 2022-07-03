@@ -1,0 +1,32 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+a{
+    text-decoration:none;
+    color:#000;
+}
+ul{
+    list-style-type:none;
+}
+.container{
+    width:80%;
+    margin:0 auto;
+}
+.nav{
+    width:100%;
+    background:#ddd;
+    padding:10px 0;
+}
+.nav-flex{
+    display:flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.navbar ul{
+    display:flex;
+}
+.navbar ul li{
+    padding:10px 15px;
+}
